@@ -3,6 +3,7 @@
 📸 Ekran rasmlar uchun joy (Top 5-6 rasm)
 
 Quyidagi joylarga SQL kodlar ishlaganligini ko‘rsatadigan screenshotlar qo‘yiladi. Har bir topshiriq natijasi yoki tegishli jadval ko‘rinishi bilan tasdiqlansin.
+
 ✅ Task 1 - <img width="400" alt="Screenshot 2025-07-08 at 08 51 51" src="https://github.com/user-attachments/assets/53783daf-2ed7-4343-bfd2-c4eee004da24" />
 
 ✅ Task 2 - <img width="400" alt="Screenshot 2025-07-08 at 08 52 26" src="https://github.com/user-attachments/assets/4b7833e2-90a6-4a92-94c5-6e9e64b8cc44" />
